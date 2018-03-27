@@ -2,6 +2,7 @@ import json
 import base64
 import requests
 #mumu
+#mumu * 2
 
 myWeiBo = [
     {'no': '18011488674', 'psw': 'z111111'},
